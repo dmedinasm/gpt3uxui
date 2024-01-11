@@ -85,7 +85,7 @@ cursor: pointer;
     }
 
     /* Customizing feature component as per needs */
-    .gpt3__whatgpt3-feature .gpt3__features-container_feature-text {
+    .gpt3__whatgpt3-feature .gpt3__features-container__feature-text {
         margin-top: 0.5rem;
     }
 
